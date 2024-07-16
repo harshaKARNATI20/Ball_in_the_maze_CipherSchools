@@ -1,0 +1,294 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Unity Projects\\Ball_in_the_maze_CipherSchools\\Ball in the Maze\\Unity.TextMeshPro.csproj": {}
+  },
+  "projects": {
+    "D:\\Unity Projects\\Ball_in_the_maze_CipherSchools\\Ball in the Maze\\Unity.TextMeshPro.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Unity Projects\\Ball_in_the_maze_CipherSchools\\Ball in the Maze\\Unity.TextMeshPro.csproj",
+        "projectName": "Unity.TextMeshPro",
+        "projectPath": "D:\\Unity Projects\\Ball_in_the_maze_CipherSchools\\Ball in the Maze\\Unity.TextMeshPro.csproj",
+        "packagesPath": "C:\\Users\\harsh\\.nuget\\packages\\",
+        "outputPath": "D:\\Unity Projects\\Ball_in_the_maze_CipherSchools\\Ball in the Maze\\Temp\\obj\\Debug\\Unity.TextMeshPro\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\harsh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Unity Projects\\Ball_in_the_maze_CipherSchools\\Ball in the Maze\\UnityEditor.UI.csproj": {
+                "projectPath": "D:\\Unity Projects\\Ball_in_the_maze_CipherSchools\\Ball in the Maze\\UnityEditor.UI.csproj"
+              },
+              "D:\\Unity Projects\\Ball_in_the_maze_CipherSchools\\Ball in the Maze\\UnityEngine.UI.csproj": {
+                "projectPath": "D:\\Unity Projects\\Ball_in_the_maze_CipherSchools\\Ball in the Maze\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Unity Projects\\Ball_in_the_maze_CipherSchools\\Ball in the Maze\\UnityEditor.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Unity Projects\\Ball_in_the_maze_CipherSchools\\Ball in the Maze\\UnityEditor.TestRunner.csproj",
+        "projectName": "UnityEditor.TestRunner",
+        "projectPath": "D:\\Unity Projects\\Ball_in_the_maze_CipherSchools\\Ball in the Maze\\UnityEditor.TestRunner.csproj",
+        "packagesPath": "C:\\Users\\harsh\\.nuget\\packages\\",
+        "outputPath": "D:\\Unity Projects\\Ball_in_the_maze_CipherSchools\\Ball in the Maze\\Temp\\obj\\Debug\\UnityEditor.TestRunner\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\harsh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Unity Projects\\Ball_in_the_maze_CipherSchools\\Ball in the Maze\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "D:\\Unity Projects\\Ball_in_the_maze_CipherSchools\\Ball in the Maze\\UnityEngine.TestRunner.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Unity Projects\\Ball_in_the_maze_CipherSchools\\Ball in the Maze\\UnityEditor.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Unity Projects\\Ball_in_the_maze_CipherSchools\\Ball in the Maze\\UnityEditor.UI.csproj",
+        "projectName": "UnityEditor.UI",
+        "projectPath": "D:\\Unity Projects\\Ball_in_the_maze_CipherSchools\\Ball in the Maze\\UnityEditor.UI.csproj",
+        "packagesPath": "C:\\Users\\harsh\\.nuget\\packages\\",
+        "outputPath": "D:\\Unity Projects\\Ball_in_the_maze_CipherSchools\\Ball in the Maze\\Temp\\obj\\Debug\\UnityEditor.UI\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\harsh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Unity Projects\\Ball_in_the_maze_CipherSchools\\Ball in the Maze\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "D:\\Unity Projects\\Ball_in_the_maze_CipherSchools\\Ball in the Maze\\UnityEditor.TestRunner.csproj"
+              },
+              "D:\\Unity Projects\\Ball_in_the_maze_CipherSchools\\Ball in the Maze\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "D:\\Unity Projects\\Ball_in_the_maze_CipherSchools\\Ball in the Maze\\UnityEngine.TestRunner.csproj"
+              },
+              "D:\\Unity Projects\\Ball_in_the_maze_CipherSchools\\Ball in the Maze\\UnityEngine.UI.csproj": {
+                "projectPath": "D:\\Unity Projects\\Ball_in_the_maze_CipherSchools\\Ball in the Maze\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Unity Projects\\Ball_in_the_maze_CipherSchools\\Ball in the Maze\\UnityEngine.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Unity Projects\\Ball_in_the_maze_CipherSchools\\Ball in the Maze\\UnityEngine.TestRunner.csproj",
+        "projectName": "UnityEngine.TestRunner",
+        "projectPath": "D:\\Unity Projects\\Ball_in_the_maze_CipherSchools\\Ball in the Maze\\UnityEngine.TestRunner.csproj",
+        "packagesPath": "C:\\Users\\harsh\\.nuget\\packages\\",
+        "outputPath": "D:\\Unity Projects\\Ball_in_the_maze_CipherSchools\\Ball in the Maze\\Temp\\obj\\Debug\\UnityEngine.TestRunner\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\harsh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Unity Projects\\Ball_in_the_maze_CipherSchools\\Ball in the Maze\\UnityEngine.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Unity Projects\\Ball_in_the_maze_CipherSchools\\Ball in the Maze\\UnityEngine.UI.csproj",
+        "projectName": "UnityEngine.UI",
+        "projectPath": "D:\\Unity Projects\\Ball_in_the_maze_CipherSchools\\Ball in the Maze\\UnityEngine.UI.csproj",
+        "packagesPath": "C:\\Users\\harsh\\.nuget\\packages\\",
+        "outputPath": "D:\\Unity Projects\\Ball_in_the_maze_CipherSchools\\Ball in the Maze\\Temp\\obj\\Debug\\UnityEngine.UI\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\harsh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
